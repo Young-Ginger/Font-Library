@@ -1,0 +1,9 @@
+/* Webfont: FigueraVariable-Condesed */@font-face {
+    font-family: 'FigueraVariableCondesed';
+    src: url('FigueraVariable-Condesed.woff2') format('woff2'), /* Modern Browsers */
+         url('FigueraVariable-Condesed.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
